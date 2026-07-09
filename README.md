@@ -1,4 +1,6 @@
 
+## ESQUEMA DEL PROYECTO ABAJO ## TODOS LOS DOCUMENTOS SE ENCONTRARAN EN LA CARPETA docs
+
 # Data-Warehouse
 Data Portfolio Creando un Data Warehouse con SQL Server, ETL , Análisis y Data modeling.
 Proyecto base para la creacion de un Data Warehouse. Usaré este proyecto para demostrar la compresión en como manipular y analizar la data. Una de las mejores formas de estudiar Data anaylsis y Data Ingenieria usando SQL Server y Visual Studio para debugging y mejorar su lectura.
